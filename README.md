@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open-souce-projects**
 
-- 👨‍💻 All of my projects are available at [https://649dcc7d3e698c17c968607d--beautiful-kitsune-17c94c.netlify.app/)
+- 👨‍💻 All of my projects are available at [pratibhavguptaportfolio.netlify.app)
 
 - 📝 I regularly write articles on [https://globeallview.blogspot.com/](https://globeallview.blogspot.com/)
 
