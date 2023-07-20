@@ -3,9 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-- 🔭 I’m currently working on **Mobile Application Testing**
+- 🔭 I’m currently working on **Masai School Live Web Application Testing**
 
-- 🌱 I’m currently learning **Mobile Application Testing with JavaScript**
+- 🌱 I’m currently learning **Web Application Testing with Testing**
 
 - 👯 I’m looking to collaborate on **open-souce-projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pra.pra.arp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KIIrD1djLTvURqQeRevPN4ziK5mGWhd0/view?usp=sharing](https://drive.google.com/file/d/1ZAR-Ci7Jg1zzfzRhg5FUsqex9ImvmeI5/view?usp=drive_link)
+- 📄 Know about my experiences please checkout my RESUME --- [https://drive.google.com/file/d/1KIIrD1djLTvURqQeRevPN4ziK5mGWhd0/view?usp=sharing](https://drive.google.com/file/d/1ZAR-Ci7Jg1zzfzRhg5FUsqex9ImvmeI5/view?usp=drive_link)
 
 - ⚡ Fun fact **A smile is the most recognizable facial expression**
 
